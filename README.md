@@ -20,6 +20,8 @@ O sistema permite:
 # Observações importantes
 - A interface foi implementada com Vue.js
 - Foi utilizada uma simulação de backend com json-server
+- Foi utilizado o <a href="https://github.com/vuejs/pinia">pinia</a> para implementar o estado da aplicação
+- Para tornar o estado da aplicação persistente foi utilizado o <a href="https://github.com/prazdevs/pinia-plugin-persistedstate?tab=readme-ov-file">pinia-plugin-persistedstate</a>
 
 # Execução do sistema
 Para correr a aplicação são necessários os seguintes comandos:
